@@ -40,3 +40,4 @@ pytest-env==0.6.2
 pytest-xdist==2.3.0
 pytidylib==0.3.2
 pylint==2.14.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
